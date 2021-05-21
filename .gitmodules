@@ -1,3 +1,6 @@
 [submodule "cursor"]
 	path = cursor
 	url = https://github.com/teatro13/cursor.git
+[submodule "oscilla"]
+	path = oscilla
+	url = https://github.com/teatro13/oscilla.git
